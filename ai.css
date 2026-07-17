@@ -37,7 +37,7 @@ hr{
 .tit{
   position: absolute;
   top: 33%;
-  left: 0%;
+  left: 40%;
    font-family: "Pacifico", cursive;
   font-weight: 400;
   font-style: normal;
@@ -141,7 +141,7 @@ body{
 .svg{
   position:absolute;
     top: 0%;                 
-   left: 10%;            
+   left: 20%;            
 }
 .red{
   position:absolute;
