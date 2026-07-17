@@ -146,13 +146,13 @@ body{
 .red{
   position:absolute;
   top:0%;
-  left:40%;
+  left:41%;
 
 }
 #ai{
   object-fit: cover;   
   object-position: center; 
-
+  border-radius: 24px;
 }
 @keyframes sharpblink
 {
