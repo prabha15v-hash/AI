@@ -115,8 +115,11 @@ button{
   border: 3px 3px 3px brown;
 }
 #ma{
+   width: 500px;
+  height: 500px;
     border: 3px 3px 3px brown;
     border-radius: 24px;
+
 }
 .blue{
       position:absolute;
@@ -124,8 +127,8 @@ button{
       left: 20%;
 }
 #data{
-  width: 400px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
   border-radius: 24px;
 }
 body{
