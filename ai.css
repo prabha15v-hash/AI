@@ -167,4 +167,9 @@ button{
   border-radius: 24px;
 }
 #python{
+
+}
+.collumn{
+  display: flex;
+  flex-direction: column;
 }
