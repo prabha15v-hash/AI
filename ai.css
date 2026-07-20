@@ -6,6 +6,12 @@
     position:relative;
     width:100%;
 }
+.anal{
+  position: absolute;
+  top: 40%;
+  left: 1%;
+}
+
 .con{
    position:relative;
    width:100%;
@@ -178,9 +184,4 @@ button{
 .column{
   display: flex;
   flex-direction: column;
-}
-.anal{
-  position: absolute;
-  top: 40%;
-  left: 1%;
 }
