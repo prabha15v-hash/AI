@@ -112,8 +112,8 @@ button{
   border: 3px 3px 3px brown;
 }
 #ma{
-   width: 500px;
-  height: 500px;
+   width: 600px;
+  height: 600px;
     border: 3px 3px 3px brown;
     border-radius: 24px;
 }
@@ -149,7 +149,7 @@ button{
   object-position: center; 
   border-radius: 24px;
   height: 1500px;
-  width: 1000px;
+  width: 1100px;
 }
 @keyframes sharpblink
 {
