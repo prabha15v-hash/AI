@@ -79,7 +79,7 @@ body{
 }
 .learn{
   position: absolute;
-  top:43%;
+  top: 35%;
   left:1%;
   color:yellow;
   font-size: 30px;
@@ -185,11 +185,7 @@ button{
   display: flex;
   flex-direction: column;
 }
-h4{
-  font-size: 30px;
-  font-family: "Pacifico", cursive;
-  font-weight: 400;
-  font-style: normal;
-  color: red;
-  text-shadow: 2px 2px 2px white;
+ol{
+  color:brown;
+  font-size: 10px;
 }
