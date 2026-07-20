@@ -79,7 +79,7 @@ body{
 }
 .learn{
   position: absolute;
-  top:43%;
+  top: 35%;
   left:1%;
   color:yellow;
   font-size: 30px;
@@ -184,4 +184,8 @@ button{
 .column{
   display: flex;
   flex-direction: column;
+}
+ol{
+  color:brown;
+  font-size: 10px;
 }
