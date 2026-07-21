@@ -188,11 +188,11 @@ button{
 }
 ol{
   color:brown;
-  font-size: 10px;
+  font-size: 30px;
 }
 .le{
   position: absolute;
-  top: 50%;
+  top: 45%;
   left: 3%;
   font-size:45px;
   color:crimson;
@@ -201,7 +201,7 @@ ol{
 }
 h5{
    position: absolute;
-  top: 45%;
+  top: 50%;
   left: 3%;
    font-size: 40px;
    color:forestgreen;
@@ -209,6 +209,7 @@ h5{
 }
 h4{
   color:red;
-  font-size: 10px;
-  
+  font-size: 50px;
+  text-shadow: 2px 2px 2px white;
 }
+
