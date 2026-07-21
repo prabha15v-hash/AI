@@ -76,10 +76,11 @@ img{
   display: inline-block;  
 }
 body{
+  
 }
 .learn{
   position: absolute;
-  top: 35%;
+  top: 37%;
   left:1%;
   color:yellow;
   font-size: 30px;
@@ -155,7 +156,7 @@ button{
 .red{
   position:absolute;
   top:0%;
-  left: 95%;
+  left: 98%;
 
 }
 #ai{
@@ -191,8 +192,20 @@ ol{
 }
 .le{
   position: absolute;
-  top: 40%;
+  top: 45%;
   left: 3%;
+  font-size:20px;
+  color:crimson;
+  font-style: oblique;
+  text-shadow: 2px 2px 2px white;
+}
+h5{
+   position: absolute;
+  top: 42%;
+  left: 3%;
+   font-size: 23px;
+   color:forestgreen;
+    text-shadow: 2px 2px 2px white;
 }
 h4{
   color:red;
