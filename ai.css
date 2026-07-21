@@ -209,4 +209,14 @@ h4{
   font-size: 50px;
   text-shadow: 2px 2px 2px white;
 }
+.m{
+  position: absolute;
+  top: 60%;
+  left: 3%;
+}
+.p{
+  position: absolute;
+  top: 60%;
+  left: 3%;
+}
 
