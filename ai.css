@@ -80,7 +80,7 @@ body{
 }
 .learn{
   position: absolute;
-  top: 37%;
+  top: 40%;
   left:1%;
   color:yellow;
   font-size: 30px;
@@ -213,12 +213,12 @@ h4{
 .m{
   position: absolute;
   top: 0%;
-  left: 20%;
+  left: 10%;
 }
 .p{
   position: absolute;
   top: 0%;
-  left: 50%;
+  left:3%;
 }
 h3{
   font-size: 30px;
