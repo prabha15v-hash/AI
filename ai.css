@@ -194,7 +194,7 @@ ol{
   position: absolute;
   top: 50%;
   left: 3%;
-  font-size:40px;
+  font-size:45px;
   color:crimson;
   font-style: oblique;
   text-shadow: 2px 2px 2px white;
@@ -203,7 +203,7 @@ h5{
    position: absolute;
   top: 45%;
   left: 3%;
-   font-size: 30px;
+   font-size: 40px;
    color:forestgreen;
     text-shadow: 2px 2px 2px white;
 }
