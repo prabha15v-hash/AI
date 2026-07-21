@@ -186,9 +186,11 @@ button{
   display: flex;
   flex-direction: column;
 }
-ol{
-  color:brown;
+li{
+  color: crimson;
   font-size: 50px;
+  text-shadow: 2px 2px 2px white;
+   font-style: oblique;
 }
 .le{
   position: absolute;
@@ -197,7 +199,6 @@ ol{
   font-size:45px;
   color:crimson;
   font-style: oblique;
-  text-shadow: 2px 2px 2px white;
 }
 h5{
    font-size: 40px;
@@ -212,7 +213,7 @@ h4{
 .m{
   position: absolute;
   top: 0%;
-  left: 50%;
+  left: 20%;
 }
 .p{
   position: absolute;
