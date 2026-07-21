@@ -192,7 +192,7 @@ ol{
 }
 .le{
   position: absolute;
-  top: 50%;
+  top: 60%;
   left: 3%;
   font-size:45px;
   color:crimson;
@@ -200,9 +200,6 @@ ol{
   text-shadow: 2px 2px 2px white;
 }
 h5{
-   position: absolute;
-  top: 45%;
-  left: 3%;
    font-size: 40px;
    color:forestgreen;
     text-shadow: 2px 2px 2px white;
