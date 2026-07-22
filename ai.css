@@ -232,7 +232,7 @@ h3{
 }
 .pro{
   color: red;
-  text-shadow: 2px 2px 2px white;
+  text-shadow: 2px 2px 2px yellow;
   font-size: 50px;
   animation:sharpblink 1s linear infinite;
 }
