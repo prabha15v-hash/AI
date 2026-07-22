@@ -217,6 +217,7 @@ h3{
 #pro{
   width: 600px;
   height: 600px;
+  display: flex;
   flex-direction: column;
 }
 .r{
