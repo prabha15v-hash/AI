@@ -195,9 +195,9 @@ h5{
     text-shadow: 2px 2px 2px white;
 }
 h4{
-  color: salmon;
+  color: maroon;
   font-size: 50px;
-  text-shadow: 2px 2px 2px white;
+  text-shadow: 2px 2px 2px aqua;
   animation:sharpblink 1s linear infinite;
 }
 .m{
@@ -231,8 +231,8 @@ h3{
   left: 20%;
 }
 .pro{
-  color: red;
-  text-shadow: 2px 2px 2px white;
+  color: maroon;
+  text-shadow: 2px 2px 2px aqua;
   font-size: 40px;
   animation:sharpblink 1s linear infinite;
 }
