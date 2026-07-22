@@ -198,12 +198,12 @@ h4{
   color: salmon;
   font-size: 50px;
   text-shadow: 2px 2px 2px white;
+  animation:sharpblink 1s linear infinite;
 }
 .m{
   position: absolute;
   top: 0%;
   left: 10%;
-  animation:sharpblink 1s linear infinite;
 }
 .p{
   position: absolute;
@@ -234,6 +234,7 @@ h3{
   color: red;
   text-shadow: 2px 2px 2px white;
   font-size: 40px;
+  animation:sharpblink 1s linear infinite;
 }
 .pt{
   display: flex;
