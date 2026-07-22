@@ -6,6 +6,10 @@
     position:relative;
     width:100%;
 }
+.com{
+   position:relative;
+    width:100%;
+}
 .anal{
   position: absolute;
   top: 0%;
@@ -210,4 +214,7 @@ h3{
   font-size: 40px;
   color:aqua;
 }
-
+.pro{
+  width: 600px;
+  height: 600px;
+}
