@@ -214,6 +214,7 @@ h4{
   position: absolute;
   top: 0%;
   left: 10%;
+   animation:sharpblink 1s linear infinite;
 }
 .p{
   position: absolute;
