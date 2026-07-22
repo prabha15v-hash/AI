@@ -62,14 +62,14 @@ hr{
   font-size:20px;
 }
 h2{
-  color: red;
+  color: mediumorchid;
   font-size: 60px;
   font-family: "Playwrite NZ", cursive;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
   font-size:35px;
-  text-shadow: 2px 2px 2px white;
+  text-shadow: 2px 2px 2px red;
 }
 img{
   align-items: center;
@@ -177,7 +177,7 @@ button{
 li{
   color: orangered;
   font-size: 70px;
-  text-shadow: 2px 2px 2px white;
+  text-shadow: 2px 2px 2px red;
    font-style: oblique;
    margin: 8px;
 }
