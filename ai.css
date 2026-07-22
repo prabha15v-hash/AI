@@ -219,3 +219,6 @@ h3{
   height: 600px;
   flex-direction: column;
 }
+.r{
+  flex-direction: row;
+}
