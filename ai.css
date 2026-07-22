@@ -223,3 +223,7 @@ h3{
 .r{
   flex-direction: row;
 }
+.prompt{
+  position: absolute;
+  width: 100%;
+}
