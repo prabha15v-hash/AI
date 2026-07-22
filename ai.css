@@ -230,5 +230,6 @@ h3{
 }
 .pro{
   color: red;
-   text-shadow: 2px 2px 2px white;
+  text-shadow: 2px 2px 2px white;
+  font-size: 30px;
 }
