@@ -199,6 +199,7 @@ li{
   font-size:45px;
   color:crimson;
   font-style: oblique;
+  margin: 2px;
 }
 h5{
    font-size: 40px;
@@ -214,7 +215,7 @@ h4{
   position: absolute;
   top: 0%;
   left: 10%;
-   animation:sharpblink 1s linear infinite;
+  animation:sharpblink 1s linear infinite;
 }
 .p{
   position: absolute;
