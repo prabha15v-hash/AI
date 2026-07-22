@@ -44,7 +44,7 @@ hr{
 }
 .survive{
   position:absolute;
-  top: 13%;
+  top: 20%;
   left: 40%;
 }
 .tit{
@@ -58,7 +58,7 @@ hr{
   font-size:20px;
 }
 h2{
-  color: purple;
+  color: red;
   font-size: 60px;
   font-family: "Playwrite NZ", cursive;
   font-optical-sizing: auto;
@@ -93,19 +93,6 @@ body{
   font-size:30px;
   background-color:magenta;
   text-align: left;
-}
-.fa-star
-{
-  font-size:40px;
-  color:palevioletred;
-  position: absolute;
-
-}
-.fa-burst{
-  font-size:40px;
-  color: brown;
-  position: absolute;
-
 }
 .div{
   position: absolute;
@@ -171,9 +158,6 @@ button{
   0%, 49% { opacity: 1; }
   50%, 100% { opacity: 0; }
 }
- .fa-share{
-     animation:sharpblink 1s linear infinite;
- }
 .image{
   width: 600px;
   height: 600px;
