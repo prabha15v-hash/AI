@@ -226,13 +226,4 @@ h3{
   font-size: 30px;
   color:aqua;
 }
-.tooltip{
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-}
-.d{
-  visibility: hidden;
-  position: absolute;
-}
 
