@@ -27,12 +27,12 @@
  
 }
 h1{
-    color:white;
+    color: lawngreen;
     font-size: 60px;
     font-family: "Playwrite ID", cursive;
     font-optical-sizing: auto;
     font-weight: weight;
-   text-shadow: 3px 3px 3px red; 
+   text-shadow: 3px 3px 3px whitesmoke; 
 }
 text
 {
@@ -42,7 +42,7 @@ text
     
 }
 hr{
-  background-color: lawngreen;
+  background-color: blue;
   border: none;
   height:2px;
 }
