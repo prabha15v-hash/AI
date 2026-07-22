@@ -222,6 +222,7 @@ h3{
   border-radius: 24px;
 }
 .r{
+  display: flex;
   flex-direction: row;
 }
 .prompt{
