@@ -175,7 +175,7 @@ button{
   flex-direction: column;
 }
 li{
-  color: maroon;
+  color: violet;
   font-size: 70px;
   text-shadow: 2px 2px 2px aqua;
    font-style: oblique;
@@ -195,7 +195,7 @@ h5{
     text-shadow: 2px 2px 2px white;
 }
 h4{
-  color: maroon;
+  color: lawngreen;
   font-size: 50px;
   text-shadow: 2px 2px 2px aqua;
   animation:sharpblink 1s linear infinite;
@@ -231,9 +231,9 @@ h3{
   left: 20%;
 }
 .pro{
-  color: maroon;
+  color: lawngreen;
   text-shadow: 2px 2px 2px aqua;
-  font-size: 40px;
+  font-size: 50px;
   animation:sharpblink 1s linear infinite;
 }
 .pt{
