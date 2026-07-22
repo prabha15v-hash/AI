@@ -217,16 +217,5 @@ h3{
 #pro{
   width: 600px;
   height: 600px;
-  flex-direction: row;
-  border-radius: 24px;
-}
-.pro{
-  color: brown;
-  font-size: 30px;
-  text-shadow: 2px 2px 2px whitesmoke;
-}
-.prompt{
-  position: absolute;
-  top: 0%;
-  left: 20%;
+  flex-direction: column;
 }
