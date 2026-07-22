@@ -218,4 +218,5 @@ h3{
   width: 600px;
   height: 600px;
   flex-direction: row;
+  border-radius: 24px;
 }
