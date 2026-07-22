@@ -218,7 +218,7 @@ h3{
   width: 600px;
   height: 600px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
 .r{
   flex-direction: row;
@@ -235,5 +235,5 @@ h3{
 }
 .pt{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
 }
