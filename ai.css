@@ -175,9 +175,9 @@ button{
   flex-direction: column;
 }
 li{
-  color: crimson;
+  color: maroon;
   font-size: 70px;
-  text-shadow: 2px 2px 2px white;
+  text-shadow: 2px 2px 2px aqua;
    font-style: oblique;
    margin: 8px;
 }
@@ -186,12 +186,11 @@ li{
   top: 60%;
   left: 3%;
   font-size:45px;
-  color:crimson;
   font-style: oblique;
   margin: 2px;
 }
 h5{
-   font-size: 40px;
+   font-size: 50px;
    color:forestgreen;
     text-shadow: 2px 2px 2px white;
 }
