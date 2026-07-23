@@ -85,7 +85,7 @@ body{
 }
 .learn{
   position: absolute;
-  top: 35%;
+  top: 40%;
   left:1%;
   color:yellow;
   font-size: 30px;
@@ -183,7 +183,7 @@ li{
 }
 .le{
   position: absolute;
-  top: 60%;
+  top: 50%;
   left: 3%;
   font-size:45px;
   font-style: oblique;
