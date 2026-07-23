@@ -248,6 +248,8 @@ h3{
     text-shadow:2px 2px 2px yellow;}
 }
 .aura{
+  color:palevioletred;
+    text-shadow:2px 2px 2px magenta;
   animation: met 1s linear infinite;
 }
 .kid{
