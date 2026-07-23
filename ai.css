@@ -80,6 +80,8 @@ img{
 }
 body{
   background-color: blue;
+  background-attachment: fixed;
+  background-position: center;
 }
 .learn{
   position: absolute;
