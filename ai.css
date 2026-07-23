@@ -253,7 +253,7 @@ h3{
   animation: met 1s linear infinite;
 }
 .kid{
-  
+  background-color: royalblue;
 }
 .prove{
    color:gold;
@@ -264,4 +264,8 @@ h3{
 p{
   font-size: 40px;
   color:antiquewhite;
+}
+.machines{
+  color:brown;
+  background-color: chartreuse;
 }
