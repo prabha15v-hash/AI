@@ -79,7 +79,7 @@ img{
   display: inline-block;  
 }
 body{
-  
+  background-color: blue;
 }
 .learn{
   position: absolute;
@@ -249,4 +249,9 @@ h3{
   animation: met 1s linear infinite;
   animation-name: met;
   animation-iteration-count: infinite;
+}
+kid{
+  color:aqua;
+  text-shadow: 2px 2px 2px white;
+  font-size: 50px;
 }
