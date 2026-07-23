@@ -147,7 +147,6 @@ button{
   position:absolute;
   top:0%;
   left: 98%;
- animation: met 1s linear infinite;
 }
 #ai{
   object-fit: cover;   
@@ -245,4 +244,9 @@ h3{
     text-shadow:2px 2px 2px magenta;}
   to{color:yellow;
     text-shadow:2px 2px 2px yellow;}
+}
+.aura{
+  animation: met 1s linear infinite;
+  animation-name: met;
+  animation-iteration-count: infinite;
 }
