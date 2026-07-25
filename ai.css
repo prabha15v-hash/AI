@@ -61,7 +61,7 @@ hr{
   font-size:60px;
 }
 h2{
-  color: orangered;
+  color: tomato;
   font-size: 60px;
   font-family: "Playwrite NZ", cursive;
   font-optical-sizing: auto;
@@ -183,7 +183,7 @@ li{
 }
 .le{
   position: absolute;
-  top: 48%;
+  top: 55%;
   left: 3%;
   font-size:45px;
   font-style: oblique;
@@ -191,7 +191,7 @@ li{
 }
 h5{
    font-size: 50px;
-   color:forestgreen;
+   color: hotpink;
     text-shadow: 2px 2px 2px white;
     font-family: "Monoton", sans-serif;
   font-weight: 400;
@@ -200,7 +200,7 @@ h5{
 }
 h4{
   color: red;
-  font-size: 60px;
+  font-size: 70px;
   text-shadow: 2px 2px 2px white;
   animation:sharpblink 1s linear infinite;
   font-family: "Norican", cursive;
@@ -210,7 +210,7 @@ h4{
 .m{
   position: absolute;
   top: 0%;
-  left: 10%;
+  left: 7%;
 }
 .p{
   position: absolute;
@@ -219,7 +219,7 @@ h4{
 }
 h3{
   font-size: 40px;
-  color:aqua;
+  color: tomato;
 }
 #pro{
   width: 600px;
@@ -264,10 +264,11 @@ h3{
   background-color: royalblue;
 }
 .prove{
-   color:gold;
+   color: red;
   text-shadow: 2px 2px 2px white;
   font-size: 50px;
   position: center;
+  background-color: orange;
 }
 p{
   font-size: 40px;
