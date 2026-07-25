@@ -61,14 +61,14 @@ hr{
   font-size:60px;
 }
 h2{
-  color: darkcyan;
+  color: orange;
   font-size: 60px;
   font-family: "Playwrite NZ", cursive;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
   font-size:35px;
-  text-shadow: 2px 2px 2px aqua;
+  text-shadow: 2px 2px 2px white;
 }
 img{
   align-items: center;
@@ -183,7 +183,7 @@ li{
 }
 .le{
   position: absolute;
-  top: 48%;
+  top: 52%;
   left: 3%;
   font-size:45px;
   font-style: oblique;
@@ -296,6 +296,9 @@ p
   color: indigo;
   background-color: red;
   text-shadow: 2px 2px 2px whitesmoke;
+  font-family: "Norican", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .mach{
   font-size:  50px;
