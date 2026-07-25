@@ -183,7 +183,7 @@ li{
 }
 .le{
   position: absolute;
-  top: 48%;
+  top: 52%;
   left: 3%;
   font-size:45px;
   font-style: oblique;
@@ -191,7 +191,7 @@ li{
 }
 h5{
    font-size: 50px;
-   color:forestgreen;
+   color: wheat;
     text-shadow: 2px 2px 2px white;
     font-family: "Monoton", sans-serif;
   font-weight: 400;
