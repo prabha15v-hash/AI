@@ -199,6 +199,9 @@ h4{
   font-size: 50px;
   text-shadow: 2px 2px 2px white;
   animation:sharpblink 1s linear infinite;
+  font-family: "Norican", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .m{
   position: absolute;
@@ -235,6 +238,10 @@ h3{
   text-shadow: 2px 2px 2px yellow;
   font-size: 50px;
   animation:sharpblink 1s linear infinite;
+  font-family: "Monoton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
 .pt{
   display: flex;
@@ -282,4 +289,12 @@ p{
 p
 {
   color: black;
+}
+.promp{
+  font-size:  40px;
+  color: red;
+}
+.mach{
+  font-size:  40px;
+  color: red;
 }
