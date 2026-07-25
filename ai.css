@@ -32,7 +32,7 @@ h1{
     font-family: "Playwrite ID", cursive;
     font-optical-sizing: auto;
     font-weight: weight;
-   text-shadow: 3px 3px 3px greenyellow; 
+   text-shadow: 3px 3px 3px red; 
 }
 text
 {
@@ -290,11 +290,15 @@ p
 {
   color: black;
 }
-.promp{
-  font-size:  40px;
-  color: red;
+.prom{
+  font-size:  50px;
+  color: indigo;
+  background-color: red;
+  text-shadow: 2px 2px 2px whitesmoke;
 }
 .mach{
-  font-size:  40px;
-  color: red;
+  font-size:  50px;
+  color:aqua;
+  background-color: chocolate;
+  text-shadow: 2px 2px 2px red;
 }
