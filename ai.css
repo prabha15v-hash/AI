@@ -88,7 +88,7 @@ body{
 }
 .learn{
   position: absolute;
-  top: 50%;
+  top: 40%;
   left:1%;
   color:yellow;
   font-size: 30px;
@@ -186,7 +186,7 @@ li{
 }
 .le{
   position: absolute;
-  top: 52%;
+  top: 55%;
   left: 3%;
   font-size:45px;
   font-style: oblique;
@@ -194,7 +194,7 @@ li{
 }
 h5{
    font-size: 50px;
-   color:forestgreen;
+   color: yellow;
     text-shadow: 2px 2px 2px white;
     font-family: "Monoton", sans-serif;
   font-weight: 400;
@@ -242,10 +242,12 @@ h3{
 }
 .pro{
   color: red;
-  text-shadow: 2px 2px 2px yellow;
+  text-shadow: 2px 2px 2px white;
   font-size: 50px;
   animation:sharpblink 1s linear infinite;
-
+ font-family: "Norican", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
 .pt{
   display: flex;
