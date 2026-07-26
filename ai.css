@@ -185,7 +185,7 @@ li{
 }
 .le{
   position: absolute;
-  top: 55%;
+  top: 57%;
   left: 3%;
   font-size:45px;
   font-style: oblique;
@@ -308,4 +308,13 @@ p
   color:aqua;
   background-color: chocolate;
   text-shadow: 2px 2px 2px red;
+}
+.click{
+  color: brown;
+  font-family: "Griffy", system-ui;
+  font-weight: 400;
+  font-style: normal;
+   background-color: aqua;
+   font-size: 50px;
+   
 }
