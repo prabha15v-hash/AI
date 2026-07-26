@@ -48,8 +48,12 @@ hr{
 }
 .survive{
   position:absolute;
-  top: 25%;
+  top: 20%;
   left: 40%;
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size:60px;
 }
 .tit{
   position: absolute;
@@ -67,7 +71,6 @@ h2{
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
-  font-size:35px;
   text-shadow: 2px 2px 2px whitesmoke;
 }
 img{
@@ -183,7 +186,7 @@ li{
 }
 .le{
   position: absolute;
-  top: 48%;
+  top: 52%;
   left: 3%;
   font-size:45px;
   font-style: oblique;
