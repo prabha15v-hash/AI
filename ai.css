@@ -48,8 +48,8 @@ hr{
 }
 .survive{
   position:absolute;
-  top: 18%;
-  left:35%;
+  top: 16%;
+  left:40%;
   font-family: "Pacifico", cursive;
   font-weight: 400;
   font-style: normal;
@@ -57,7 +57,7 @@ hr{
 }
 .tit{
   position: absolute;
-  top: 28%;
+  top: 30%;
   left: 1%;
    font-family: "Pacifico", cursive;
   font-weight: 400;
@@ -95,9 +95,9 @@ body{
 }
 #learn
 {
-  width:80px;
+  width:90px;
   height:70px;
-  font-size:30px;
+  font-size:50px;
   background-color:magenta;
   text-align: left;
 }
@@ -202,7 +202,7 @@ h5{
 }
 h4{
   color: red;
-  font-size: 60px;
+  font-size: 70px;
   text-shadow: 2px 2px 2px white;
   animation:sharpblink 1s linear infinite;
   font-family: "Norican", cursive;
@@ -243,7 +243,7 @@ h3{
 .pro{
   color: red;
   text-shadow: 2px 2px 2px white;
-  font-size: 50px;
+  font-size: 70px;
   animation:sharpblink 1s linear infinite;
  font-family: "Norican", cursive;
   font-weight: 400;
@@ -269,6 +269,7 @@ h3{
   background-color: turquoise;
   text-align: center;
   align-items: center;
+  margin-right: 20%;
 }
 .prove{
    color: indigo;
@@ -286,6 +287,7 @@ p{
   background-color: chartreuse;
   text-align: center;
   align-items: center;
+  margin-right: 20%;
 }
 .py{
   background-color: bisque;
@@ -293,6 +295,7 @@ p{
   font-size: 30px;
   text-align: center;
   align-items: center;
+  margin-right: 20%;
 }
 .fount{
   background-color: blanchedalmond;
@@ -300,6 +303,7 @@ p{
   font-size:30px;
   text-align: center;
   align-items: center;
+  margin-right: 20%;
 }
 p
 {
