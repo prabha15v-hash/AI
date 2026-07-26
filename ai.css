@@ -221,8 +221,9 @@ h4{
   left:3%;
 }
 h3{
-  font-size: 40px;
-  color:aqua;
+  font-size: 50px;
+  color: salmon;
+  text-shadow: 2px 2px 2px white;
 }
 #pro{
   width: 600px;
@@ -266,13 +267,14 @@ h3{
   animation: met 1s linear infinite;
 }
 .kid{
-  background-color: royalblue;
+  background-color: turquoise;
 }
 .prove{
-   color:gold;
+   color: indigo;
   text-shadow: 2px 2px 2px white;
   font-size: 50px;
   position: center;
+  background-color:red ;
 }
 p{
   font-size: 40px;
