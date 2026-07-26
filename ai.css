@@ -13,7 +13,7 @@
 .anal{
   position: absolute;
   top: 0%;
-  left: 30%;
+  left: 29%;
 }
 
 .con{
@@ -48,8 +48,8 @@ hr{
 }
 .survive{
   position:absolute;
-  top: 20%;
-  left: 40%;
+  top: 18%;
+  left:35%;
   font-family: "Pacifico", cursive;
   font-weight: 400;
   font-style: normal;
@@ -88,7 +88,7 @@ body{
 }
 .learn{
   position: absolute;
-  top: 45%;
+  top: 48%;
   left:1%;
   font-size: 30px;
   text-shadow: 1px 1px 1px white;
@@ -267,6 +267,8 @@ h3{
 }
 .kid{
   background-color: turquoise;
+  text-align: center;
+  align-items: center;
 }
 .prove{
    color: indigo;
@@ -282,16 +284,22 @@ p{
 .machines{
   color:brown;
   background-color: chartreuse;
+  text-align: center;
+  align-items: center;
 }
 .py{
   background-color: bisque;
   color: black;
   font-size: 30px;
+  text-align: center;
+  align-items: center;
 }
 .fount{
   background-color: blanchedalmond;
   color: black;
   font-size:30px;
+  text-align: center;
+  align-items: center;
 }
 p
 {
@@ -316,5 +324,8 @@ p
   font-style: normal;
    background-color: aqua;
    font-size: 50px;
-   
+   text-shadow: 2px 2px 2px red;
+   text-align: center;
+   margin-left: 30%;
+   margin-right: 30%;
 }
