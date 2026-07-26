@@ -95,8 +95,8 @@ body{
 }
 #learn
 {
-  width:90px;
-  height:70px;
+  width:120px;
+  height:80px;
   font-size:50px;
   background-color:magenta;
   text-align: left;
@@ -185,7 +185,7 @@ li{
 }
 .le{
   position: absolute;
-  top: 57%;
+  top: 58%;
   left: 3%;
   font-size:45px;
   font-style: oblique;
@@ -269,7 +269,8 @@ h3{
   background-color: turquoise;
   text-align: center;
   align-items: center;
-  margin-right: 20%;
+  margin-right: 30%;
+  margin-left: 20px;
 }
 .prove{
    color: indigo;
@@ -287,7 +288,8 @@ p{
   background-color: chartreuse;
   text-align: center;
   align-items: center;
-  margin-right: 20%;
+  margin-right: 30%;
+  margin-left: 0cm20%;
 }
 .py{
   background-color: bisque;
@@ -295,7 +297,8 @@ p{
   font-size: 30px;
   text-align: center;
   align-items: center;
-  margin-right: 20%;
+  margin-right: 30%;
+  margin-left: 20%;
 }
 .fount{
   background-color: blanchedalmond;
@@ -303,7 +306,8 @@ p{
   font-size:30px;
   text-align: center;
   align-items: center;
-  margin-right: 20%;
+  margin-right: 30%;
+  margin-left: 20%;
 }
 p
 {
